@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my backend for my ecommerce site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbry12/ecommerce-backend.git"
+  },
+  "author": "Bryant Pyram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbry12/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/xbry12/ecommerce-backend#readme"
+}
